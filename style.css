@@ -81,6 +81,7 @@ body {
     justify-content: space-evenly;
     align-items: center;
     height: 70vh;
+    padding: 0 80px;
 }
   
 .quemsomos img{
@@ -169,6 +170,7 @@ body {
 .planos{
     padding: 50px 160px;
     height: 80vh;
+    margin-botton: 10vh;
 }
 
 .planos h2{
